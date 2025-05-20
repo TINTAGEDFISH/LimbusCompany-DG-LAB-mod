@@ -17,9 +17,9 @@ OTC控制器github仓库:https://github.com/open-toys-controller/open-DGLAB-cont
 ## 安装教程： 
 ### 模组部分   
 
-1.使用集成开发环境创建C#类库(.dll)项目.NET Framework项目，然后把该项目的代码复制进去   
+1.使用集成开发环境创建C#类库(.dll)项目.NET Framework项目，然后把本仓库的代码复制进去   
 
-2.引入项目依赖，即私服环境配置中由BepInEx生成的动态链接库，例如game\BepInEx\core，game\BepInEx\interop，game\BepInEx\unity-libs这些目录下的文件夹   
+2.引入项目依赖，即私服环境配置中由BepInEx生成的动态链接库，例如game\BepInEx\core，game\BepInEx\interop，game\BepInEx\unity-libs这些目录下的文件   
 
 3.修改源代码的IP地址，换成你手机中OTC控制器显示的IP地址   
 
