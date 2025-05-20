@@ -28,7 +28,8 @@ OTC控制器github仓库:https://github.com/open-toys-controller/open-DGLAB-cont
 
 ### OTC控制器部分   
 
-1.参考OTC控制器github仓库（https://github.com/open-toys-controller/open-DGLAB-controller）提供的apk文件，将其下载到手机   
+1.参考OTC控制器github仓库（https://github.com/open-toys-controller/open-DGLAB-controller）  
+提供的apk文件，将其下载到手机   
 
 2.手机和电脑连接同一个局域网   
 
